@@ -1,0 +1,15 @@
+C:\Users\Peyman\Desktop\work\C#\college\Practice_1_first_number\Practice_1_first_number\bin\Debug\net6.0\Practice_1_first_number.exe
+C:\Users\Peyman\Desktop\work\C#\college\Practice_1_first_number\Practice_1_first_number\bin\Debug\net6.0\Practice_1_first_number.deps.json
+C:\Users\Peyman\Desktop\work\C#\college\Practice_1_first_number\Practice_1_first_number\bin\Debug\net6.0\Practice_1_first_number.runtimeconfig.json
+C:\Users\Peyman\Desktop\work\C#\college\Practice_1_first_number\Practice_1_first_number\bin\Debug\net6.0\Practice_1_first_number.dll
+C:\Users\Peyman\Desktop\work\C#\college\Practice_1_first_number\Practice_1_first_number\bin\Debug\net6.0\Practice_1_first_number.pdb
+C:\Users\Peyman\Desktop\work\C#\college\Practice_1_first_number\Practice_1_first_number\obj\Debug\net6.0\Practice_1_first_number.csproj.AssemblyReference.cache
+C:\Users\Peyman\Desktop\work\C#\college\Practice_1_first_number\Practice_1_first_number\obj\Debug\net6.0\Practice_1_first_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peyman\Desktop\work\C#\college\Practice_1_first_number\Practice_1_first_number\obj\Debug\net6.0\Practice_1_first_number.AssemblyInfoInputs.cache
+C:\Users\Peyman\Desktop\work\C#\college\Practice_1_first_number\Practice_1_first_number\obj\Debug\net6.0\Practice_1_first_number.AssemblyInfo.cs
+C:\Users\Peyman\Desktop\work\C#\college\Practice_1_first_number\Practice_1_first_number\obj\Debug\net6.0\Practice_1_first_number.csproj.CoreCompileInputs.cache
+C:\Users\Peyman\Desktop\work\C#\college\Practice_1_first_number\Practice_1_first_number\obj\Debug\net6.0\Practice_1_first_number.dll
+C:\Users\Peyman\Desktop\work\C#\college\Practice_1_first_number\Practice_1_first_number\obj\Debug\net6.0\refint\Practice_1_first_number.dll
+C:\Users\Peyman\Desktop\work\C#\college\Practice_1_first_number\Practice_1_first_number\obj\Debug\net6.0\Practice_1_first_number.pdb
+C:\Users\Peyman\Desktop\work\C#\college\Practice_1_first_number\Practice_1_first_number\obj\Debug\net6.0\Practice_1_first_number.genruntimeconfig.cache
+C:\Users\Peyman\Desktop\work\C#\college\Practice_1_first_number\Practice_1_first_number\obj\Debug\net6.0\ref\Practice_1_first_number.dll
